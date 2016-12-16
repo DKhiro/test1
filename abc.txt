@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 abc
 mmm
+=======
+abc 1
+zzz 1
+>>>>>>> branch 'master' of https://github.com/DKhiro/test1
