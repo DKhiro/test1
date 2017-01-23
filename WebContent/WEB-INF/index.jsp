@@ -12,5 +12,7 @@
 
 	<div>Index</div>
 	
+	<div>Index 2</div>
+	
 </body>
 </html>
