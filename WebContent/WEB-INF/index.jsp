@@ -9,6 +9,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 	<div>Index</div>
+	
+	<div>Index 1</div>
+	
 </body>
 </html>
