@@ -12,13 +12,5 @@
 
 	<div>Index</div>
 	
-	<div>Index 2</div>
-	
-	<div>Index 1</div>
-	
-	<div>Index 1B</div>
-	
-	<div>Index 1A</div>
-	
 </body>
 </html>
