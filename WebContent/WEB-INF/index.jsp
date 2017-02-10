@@ -10,9 +10,19 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 	<div>Index</div>
 	
+	<div>Index 2</div>
+=======
 	<div>Index 1</div>
 	
+	<div>Index 3</div>
+	
+	<div>Index 10</div>
+	
+	<div>Index 11</div>
+>>>>>>> branch 'master' of https://github.com/DKhiro/test1.git
+		
 </body>
 </html>
