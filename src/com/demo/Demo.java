@@ -6,6 +6,7 @@ public class Demo {
 
 		System.out.println("A");
 
+		System.out.println("Z1");
 	}
 
 }
